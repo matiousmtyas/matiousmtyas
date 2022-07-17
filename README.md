@@ -1,6 +1,5 @@
 ### Hi there 👋
-- My name is matious
-- Iam frontend developer
+Matious Mtyas frontend developer gradute from fci ussuit university
 
 <!--
 **matiousmtyas/matiousmtyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Xwarecamb
+
 
