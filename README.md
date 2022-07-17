@@ -1,5 +1,5 @@
 ### Hi there 👋
-Matious Mtyas frontend developer gradute from fci ussuit university
+Matious Mtyas frontend developer gradute from fci ussuit university in 2022
 
 <!--
 **matiousmtyas/matiousmtyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
