@@ -1,6 +1,6 @@
 ### Hi there 👋
-- my name is matious
-- iam frontend developer
+- My name is matious
+- Iam frontend developer
 
 <!--
 **matiousmtyas/matiousmtyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
