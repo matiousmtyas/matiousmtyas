@@ -1,5 +1,5 @@
 ### Hi there 👋
-- matious
+- my name is matious
 - iam frontend developer
 
 <!--
